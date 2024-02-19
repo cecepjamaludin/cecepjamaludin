@@ -6,7 +6,7 @@ Experienced working in the shoe industry for more than 4 years. People know me a
 
 ## Education:
 
-#### 1. Universitas Putra Indonesia] | Bachelor of Information Engineering | Cianjur `2020-2024`
+#### 1. Universitas Putra Indonesia | Bachelor of Information Engineering | Cianjur `2020-2024`
 #### 2. SMK Negeri 1 Cianjur | Computer And Network Engineering | Cianjur `2016-2019`
 
 ## Work Experience:
