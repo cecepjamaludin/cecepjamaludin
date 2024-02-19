@@ -29,12 +29,12 @@ Experienced working in the shoe industry for more than 4 years. People know me a
 &nbsp;&nbsp;
 ![website](./img/figma.svg)
 &nbsp;&nbsp;
-![website](./img/react.svg)
+![website](./img/react1.svg)
 &nbsp;&nbsp;
-![website](./img/microsoftexcel.svg)
+![website](./img/microsoft_excel.svg)
 &nbsp;&nbsp;
 
-<br />
+
 
 ## Connect with me
 
