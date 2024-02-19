@@ -15,7 +15,7 @@ Experienced working in the shoe industry for more than 4 years. People know me a
    - Arrange production schedules so that exports are on time.
    - Prepare daily production targets.
    - Create incoming and outgoing bottom material reports.
-#### 2. PT. Pou Yuen Indonesia] | Business Unit | Cianjur `Mar 2023 - Now`
+#### 2. PT. Pou Yuen Indonesia | Business Unit | Cianjur `Mar 2023 - Now`
    - Create and prepare shipping and customs export documents, including commercial invoices, packing lists, certificates of origin, bills of lading, customs declarations and other documents.
    - Ensure compliance with import-export laws and regulations by staying updated on changes in customs requirements and assisting with customs clearance procedures.
    - Maintain accurate records of import and export transactions, including invoices, shipping documents, and customs declarations.
