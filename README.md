@@ -35,9 +35,8 @@ Experienced working in the shoe industry for more than 4 years. People know me a
 [<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />]
 
 <br />
-<br />
 
----
+
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/cecepjamaludinpassa#gh-light-mode-only)
@@ -48,5 +47,5 @@ Experienced working in the shoe industry for more than 4 years. People know me a
 
 
 
-[webdev]: https://github.com/cecepjamaludin/cecepjamaludin
+[cecepjamaludin]: https://github.com/cecepjamaludin/cecepjamaludin
 
