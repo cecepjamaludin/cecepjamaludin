@@ -25,7 +25,9 @@ Experienced working in the shoe industry for more than 4 years. People know me a
 
 
 ## Languages and Tools
-
+![website](./img/javascript.svg)
+&nbsp;&nbsp;
+![website](./img/javascript.svg)
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />]
