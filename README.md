@@ -7,24 +7,28 @@ Experienced working in the shoe industry for more than 4 years. People know me a
 ## Education:
 
 #### 1. [Universitas Putra Indonesia](https://www.unpi-cianjur.ac.id/) | Bachelor of Information Engineering | Cianjur `2020-2024`
- #### 2. [SMK Negeri 1 Cianjur](https://smkn1cianjur.sch.id/) | Teknik Komputer Dan Jaringan | Cianjur `2016-2019`
-   - Chief of Rohkris
+#### 2. [SMK Negeri 1 Cianjur](https://smkn1cianjur.sch.id/) | Computer And Network Engineering | Cianjur `2016-2019`
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. PT. Pou Yuen Indonesia | Production Planning Control | Cianjur `Dec 2019 - Mar 2023`
+   - Analyze employee needs with production needs.
+   - Arrange production schedules so that exports are on time.
+   - Prepare daily production targets.
+   - Create incoming and outgoing bottom material reports.
+#### 2. PT. Pou Yuen Indonesia] | Business Unit | Cianjur `Mar 2023 - Now`
+   - Create and prepare shipping and customs export documents, including commercial invoices, packing lists, certificates of origin, bills of lading, customs declarations and other documents.
+   - Ensure compliance with import-export laws and regulations by staying updated on changes in customs requirements and assisting with customs clearance procedures.
+   - Maintain accurate records of import and export transactions, including invoices, shipping documents, and customs declarations.
+   - Monitoring payment process thru SAP System Monitoring Delivery Instruction.
+   - Communicate with shipping agents (Maersk, Kuehne Nagel, DHL, Nippon, APLL) etc.
+   - Communicate with customers (Nike).
+   - Coordinate with finance and accounting departments to ensure accurate and timely payment of import duties, taxes, and freight charges.
 ---
 
 ### Languages and Tools:
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
