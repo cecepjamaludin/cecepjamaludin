@@ -1,8 +1,8 @@
 # Hi there, I'm Cecep Jamaludin Passa - scrim 👋
-## About me:
+## About me
 Experienced working in the shoe industry for more than 4 years. People know me as a responsible person, strong at analyzing problems, good teamwork, and strong attention to detail. As someone who loves data analysis and management, I currently work in the business unit department which includes business planning and export management administration. Apart from that, I have a high interest in studying web development and UI design, because it suits my passion and college major.
 
-## Education:
+## Education
 
 #### 1. Universitas Putra Indonesia | Bachelor of Information Engineering | Cianjur `2020-2024`
 #### 2. SMK Negeri 1 Cianjur | Computer And Network Engineering | Cianjur `2016-2019`
@@ -23,7 +23,7 @@ Experienced working in the shoe industry for more than 4 years. People know me a
    - Coordinate with finance and accounting departments to ensure accurate and timely payment of import duties, taxes, and freight charges.
 ---
 
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />]
@@ -34,8 +34,7 @@ Experienced working in the shoe industry for more than 4 years. People know me a
 
 <br />
 
-
-### Connect with me:
+### Connect with me
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/cecepjamaludinpassa#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/cecepjamaludinpassa#gh-dark-mode-only)
