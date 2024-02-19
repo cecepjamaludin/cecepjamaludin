@@ -1,4 +1,4 @@
-# Hi there, I'm Cecep Jamaludin Passa - scrim 👋
+# Hi there, I'm Cecep Jamaludin Passa 👋
 ## About me
 Experienced working in the shoe industry for more than 4 years. People know me as a responsible person, strong at analyzing problems, good teamwork, and strong attention to detail. As someone who loves data analysis and management, I currently work in the business unit department which includes business planning and export management administration. Apart from that, I have a high interest in studying web development and UI design, because it suits my passion and college major.
 
