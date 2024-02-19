@@ -1,21 +1,13 @@
 ### Hi there 👋
 
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Cecep Jamaludin Passa - scrim 👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
-- 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+Experienced working in the shoe industry for more than 4 years. People know me as a responsible person, strong at analyzing problems, good teamwork, and strong attention to detail. As someone who loves data analysis and management, I currently work in the business unit department which includes business planning and export management administration. Apart from that, I have a high interest in studying web development and UI design, because it suits my passion and college major.
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
+#### 1. [Universitas Putra Indonesia](https://www.unpi-cianjur.ac.id/) | Bachelor of Information Engineering | Cianjur `2020-2024`
+ #### 2. [SMK Negeri 1 Cianjur](https://smkn1cianjur.sch.id/) | Teknik Komputer Dan Jaringan | Cianjur `2016-2019`
    - Chief of Rohkris
 
 ## Work Experience:
