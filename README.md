@@ -4,16 +4,17 @@ Experienced working in the shoe industry for more than 4 years. People know me a
 
 ## Education
 
-#### 1. Universitas Putra Indonesia | Bachelor of Information Engineering | Cianjur `2020-2024`
-#### 2. SMK Negeri 1 Cianjur | Computer And Network Engineering | Cianjur `2016-2019`
+1. Universitas Putra Indonesia | Bachelor of Information Engineering | Cianjur `2020-2024`
+2. SMK Negeri 1 Cianjur | Computer And Network Engineering | Cianjur `2016-2019`
 
 ## Work Experience
-#### 1. PT. Pou Yuen Indonesia | Production Planning Control | Cianjur `Dec 2019 - Mar 2023`
+
+##### 1. PT. Pou Yuen Indonesia | Production Planning Control | Cianjur `Dec 2019 - Mar 2023`
    - Analyze employee needs with production needs.
    - Arrange production schedules so that exports are on time.
    - Prepare daily production targets.
    - Create incoming and outgoing bottom material reports.
-#### 2. PT. Pou Yuen Indonesia | Business Unit | Cianjur `Mar 2023 - Now`
+##### 2. PT. Pou Yuen Indonesia | Business Unit | Cianjur `Mar 2023 - Now`
    - Create and prepare shipping and customs export documents, including commercial invoices, packing lists, certificates of origin, bills of lading, customs declarations and other documents.
    - Ensure compliance with import-export laws and regulations by staying updated on changes in customs requirements and assisting with customs clearance procedures.
    - Maintain accurate records of import and export transactions, including invoices, shipping documents, and customs declarations.
@@ -24,6 +25,7 @@ Experienced working in the shoe industry for more than 4 years. People know me a
 
 
 ## Languages and Tools
+
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />]
